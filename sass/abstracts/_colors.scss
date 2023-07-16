@@ -1,13 +1,9 @@
-// Include a sass map with some primary and neutral colors
 $colors: (
     neutral: (
-        light: white,
-        normal: gray,
-        dark: black,
+        100: #FFF,
+        900: #1F3049,
     ),
     primary: (
-        light: lightblue,
-        normal: blue,
-        dark: darkblue,
+        400: #0066FF,
     ),
 );
